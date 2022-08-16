@@ -1,3 +1,7 @@
 export function App() {
-  return <div>App</div>;
+  return (
+    <div className={"bg-primary w-full overflow-hidden"}>
+      <h1>Hello, World!</h1>
+    </div>
+  );
 }
