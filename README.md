@@ -51,7 +51,8 @@ Modern UI/UX website using Vite with React.js & Tailwind CSS
 ## :sparkles: Features
 
 :heavy_check_mark: Navbar;\
-:heavy_check_mark: Hero;
+:heavy_check_mark: Hero;\
+:heavy_check_mark: Stats;
 
 <!-- :heavy_check_mark: Feature 3; -->
 
