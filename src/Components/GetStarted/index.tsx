@@ -3,8 +3,20 @@ import { arrowUp } from "../../assets";
 
 export const GetStarted = () => {
   return (
-    <>
-      <h1>GetStarted</h1>
-    </>
+    // bg gradient
+    <div>
+      {/* bg black */}
+      <div>
+        <div>
+          <p>
+            <span>Get</span>
+          </p>
+          <img src={arrowUp} alt="arrowUp" />
+        </div>
+        <p>
+          <span>Started</span>
+        </p>
+      </div>
+    </div>
   );
 };
