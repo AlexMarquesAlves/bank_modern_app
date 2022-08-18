@@ -1,5 +1,6 @@
 import styles from "../../Styles";
 import { discount, robot } from "../../assets";
+import { GetStarted } from "../GetStarted";
 
 export const Hero = () => {
   return (
@@ -25,6 +26,9 @@ export const Hero = () => {
             <span className="text-gradient">Generation</span> {` `}
             Payment Method.
           </h1>
+          <div>
+            <GetStarted />
+          </div>
         </div>
       </div>
     </section>
