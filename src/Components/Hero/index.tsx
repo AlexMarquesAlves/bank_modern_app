@@ -8,6 +8,7 @@ export const Hero = () => {
       id="home"
       className={`flex md:flex-row flex-col ${styles.paddingY}`}
     >
+      {/* LEFT SIDE */}
       <div
         className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-16`}
       >
@@ -34,7 +35,7 @@ export const Hero = () => {
           Payment Method.
         </h1>
 
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+        <p className={`${styles.paragraph} max-w-[29.375rem] mt-5`}>
           Our team of experts uses a methodology to identify the credit cards
           most likely to fit your needs. We examine annual percentage rates,
           annual fees.
