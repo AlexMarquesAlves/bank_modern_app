@@ -6,7 +6,7 @@ import { Button } from "../Button";
 export const Business = () => {
   return (
     <section className={`${layout.section}`} id="features">
-      <div>
+      <div className={`${layout.sectionInfo}`}>
         <h2>
           You do the business, <br /> we'll handle the money.
         </h2>
