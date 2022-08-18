@@ -41,6 +41,10 @@ export const Hero = () => {
           annual fees.
         </p>
       </div>
+
+      <div>
+        <img src={robot} alt="robot hand" />
+      </div>
     </section>
   );
 };
