@@ -30,7 +30,7 @@ export const App = () => {
       {/*  Sections */}
       <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
-          {/* <Stats /> */}
+          <Stats />
           {/* <Business /> */}
           {/* <Billing /> */}
           {/* <CardDeal /> */}
