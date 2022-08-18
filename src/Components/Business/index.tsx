@@ -7,7 +7,7 @@ export const Business = () => {
   return (
     <section className={`${layout.section}`} id="features">
       <div className={`${layout.sectionInfo}`}>
-        <h2>
+        <h2 className={`${styles.heading2}`}>
           You do the business, <br /> we'll handle the money.
         </h2>
         <p>
