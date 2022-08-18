@@ -19,10 +19,10 @@ export const Hero = () => {
           </p>
         </div>
         {/*  */}
-        <div>
-          <h1>
-            The Next <br /> {` `}
-            <span>Generation</span> {` `}
+        <div className="flex flex-row justify-between items-center w-full">
+          <h1 className="flex-1 font-poppins font-semibold ss:text-[4.5rem] text-[3.25rem] text-white ss:leading-[6.25rem] leading-[4.6875rem] ">
+            The Next <br className="sm:block hidden" /> {` `}
+            <span className="text-gradient">Generation</span> {` `}
             Payment Method.
           </h1>
         </div>
