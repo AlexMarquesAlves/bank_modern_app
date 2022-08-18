@@ -1,4 +1,5 @@
 import airbnb from "./airbnb.png";
+import arrowUp from "./arrowUp.svg";
 import binance from "./binance.png";
 import close from "./close.svg";
 import coinbase from "./coinbase.png";
@@ -20,6 +21,7 @@ import twitter from "./twitter.svg";
 
 export {
   airbnb,
+  arrowUp,
   binance,
   close,
   coinbase,
