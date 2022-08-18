@@ -24,12 +24,21 @@ export const Hero = () => {
           <h1 className="flex-1 font-poppins font-semibold ss:text-[4.5rem] text-[3.25rem] text-white ss:leading-[6.25rem] leading-[4.6875rem] ">
             The Next <br className="sm:block hidden" /> {` `}
             <span className="text-gradient">Generation</span> {` `}
-            Payment Method.
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
             <GetStarted />
           </div>
         </div>
+
+        <h1 className="font-poppins font-semibold ss:text-[4.25rem] text-[3.25rem] text-white ss:leading-[6.25rem] leading-[4.6875rem] w-full ">
+          Payment Method.
+        </h1>
+
+        <p>
+          Our team of experts uses a methodology to identify the credit cards
+          most likely to fit your needs. We examine annual percentage rates,
+          annual fees.
+        </p>
       </div>
     </section>
   );
