@@ -42,7 +42,9 @@ export const Hero = () => {
         </p>
       </div>
       {/* RIGHT SIDE */}
-      <div>
+      <div
+        className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}
+      >
         <img
           src={robot}
           alt="robot hand"
