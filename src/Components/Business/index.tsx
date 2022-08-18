@@ -8,7 +8,8 @@ export const Business = () => {
     <section className={`${layout.section}`} id="features">
       <div className={`${layout.sectionInfo}`}>
         <h2 className={`${styles.heading2}`}>
-          You do the business, <br /> we'll handle the money.
+          You do the business, <br className="sm:block hidden" /> we'll handle
+          the money.
         </h2>
         <p>
           With the right credit card, you can improve your financial life by
