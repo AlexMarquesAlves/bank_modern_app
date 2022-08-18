@@ -43,7 +43,11 @@ export const Hero = () => {
       </div>
 
       <div>
-        <img src={robot} alt="robot hand" />
+        <img
+          src={robot}
+          alt="robot hand"
+          className="w-[100%] h-[100%] relative z-[5]"
+        />
       </div>
     </section>
   );
