@@ -16,7 +16,7 @@ export const FeatureCard = ({
   return (
     <div>
       <div>
-        <img src={icon} alt="icon" />
+        <img src={icon} alt="icon" className="w-[50%] h-[50%] object-contain" />
       </div>
     </div>
   );
