@@ -27,6 +27,7 @@ export const FeatureCard = ({
         <img src={icon} alt="icon" className="w-[50%] h-[50%] object-contain" />
       </div>
 
+      {/* Description */}
       <div className="flex flex-1 flex-col ml-3">
         <h4
           className={`font-poppins font-semibold text-white text-[18px] leading-[23px] mb-1`}
