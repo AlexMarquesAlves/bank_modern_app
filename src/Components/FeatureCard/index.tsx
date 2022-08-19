@@ -26,6 +26,11 @@ export const FeatureCard = ({
       >
         <img src={icon} alt="icon" className="w-[50%] h-[50%] object-contain" />
       </div>
+
+      <div className="flex flex-1 flex-col ml-3">
+        <h4>{title}</h4>
+        <p>{content}</p>
+      </div>
     </div>
   );
 };
