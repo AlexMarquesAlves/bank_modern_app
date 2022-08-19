@@ -6,6 +6,7 @@ import { Button } from "../Button";
 export const Business = () => {
   return (
     <section className={`${layout.section}`} id="features">
+      {/* LEFT SIDE */}
       <div className={`${layout.sectionInfo}`}>
         <h2 className={`${styles.heading2}`}>
           You do the business, <br className="sm:block hidden" /> we'll handle
