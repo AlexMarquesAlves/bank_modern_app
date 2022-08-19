@@ -1,4 +1,3 @@
-// imports
 import { features } from "../../Constants";
 import styles, { layout } from "../../Styles";
 import { Button } from "../Button";
