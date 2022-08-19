@@ -14,8 +14,10 @@ export const FeatureCard = ({
   icon,
 }: IFeatureCardProps) => {
   return (
-    <>
-      <div>FeatureCard</div>
-    </>
+    <div>
+      <div>
+        <img src={icon} alt="icon" />
+      </div>
+    </div>
   );
 };
