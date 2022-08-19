@@ -1,7 +1,11 @@
-export const FeatureCard = () => {
+export type IFeatureCardProps = {
+  index: number;
+};
+
+export const FeatureCard = ({ index }: IFeatureCardProps) => {
   return (
     <>
-      <h1>FeatureCard</h1>
+      <div>FeatureCard</div>
     </>
   );
 };
