@@ -11,3 +11,4 @@ export { Hero } from "./Hero";
 export { Navbar } from "./Navbar";
 export { Stats } from "./Stats";
 export { Testimonials } from "./Testimonials";
+export { FeatureCard } from "./FeatureCard";
