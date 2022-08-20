@@ -32,7 +32,7 @@ export const App = () => {
         <div className={`${styles.boxWidth}`}>
           <Stats />
           <Business />
-          {/* <Billing /> */}
+          <Billing />
           {/* <CardDeal /> */}
           {/* <Testimonials /> */}
           {/* <Clients /> */}
