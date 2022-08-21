@@ -21,11 +21,10 @@ export const Billing = () => {
           Easily control your <br className={"sm:block hidden"} />
           billing &amp; invoicing.
         </h2>
-        <p>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe fuga
-          autem doloribus corrupti, modi praesentium ullam. Voluptates alias
-          eligendi maiores totam pariatur eaque porro labore in veniam
-          doloribus, facere obcaecati!
+          autem doloribus corrupti, maiores totam pariatur eaque porro labore in
+          veniam!
         </p>
       </div>
     </section>
