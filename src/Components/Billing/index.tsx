@@ -17,8 +17,8 @@ export const Billing = () => {
       </div>
 
       <div className={layout.sectionInfo}>
-        <h2>
-          Easily control your <br className="sm:block hidden" />
+        <h2 className={styles.heading2}>
+          Easily control your <br className={"sm:block hidden"} />
           billing &amp; invoicing.
         </h2>
       </div>
