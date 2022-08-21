@@ -53,7 +53,8 @@ Modern UI/UX website using Vite with React.js & Tailwind CSS
 :heavy_check_mark: Navbar;\
 :heavy_check_mark: Hero;\
 :heavy_check_mark: Stats;\
-:heavy_check_mark: Business;
+:heavy_check_mark: Business;\
+:heavy_check_mark: Billing;
 
 <!-- :heavy_check_mark: Feature 3; -->
 
