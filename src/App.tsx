@@ -33,11 +33,11 @@ export const App = () => {
           <Stats />
           <Business />
           <Billing />
-          <CardDeal />
-          <Testimonials />
-          <Clients />
-          <CTA />
-          <Footer />
+          {/* <CardDeal /> */}
+          {/* <Testimonials /> */}
+          {/* <Clients /> */}
+          {/* <CTA /> */}
+          {/* <Footer /> */}
         </div>
       </div>
     </div>
