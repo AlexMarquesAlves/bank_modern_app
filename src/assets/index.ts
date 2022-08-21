@@ -1,3 +1,6 @@
+import apple from "../apple.svg";
+import bill from "../bill.png";
+import google from "../google.svg";
 import airbnb from "./airbnb.png";
 import arrowUp from "./arrowUp.svg";
 import binance from "./binance.png";
@@ -18,9 +21,6 @@ import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
 import twitter from "./twitter.svg";
-import apple from "../apple.svg";
-import bill from "../bill.png";
-import google from "../google.svg";
 
 export {
   airbnb,
