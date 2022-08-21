@@ -21,6 +21,12 @@ export const Billing = () => {
           Easily control your <br className={"sm:block hidden"} />
           billing &amp; invoicing.
         </h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe fuga
+          autem doloribus corrupti, modi praesentium ullam. Voluptates alias
+          eligendi maiores totam pariatur eaque porro labore in veniam
+          doloribus, facere obcaecati!
+        </p>
       </div>
     </section>
   );
