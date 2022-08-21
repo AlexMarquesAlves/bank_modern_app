@@ -33,6 +33,11 @@ export const Billing = () => {
             alt="apple_store"
             className={"w-[128px] h-[42px] object-contain mr-5 cursor-pointer"}
           />
+          <img
+            src={google}
+            alt="apple_store"
+            className={"w-[128px] h-[42px] object-contain  cursor-pointer"}
+          />
         </div>
       </div>
     </section>
