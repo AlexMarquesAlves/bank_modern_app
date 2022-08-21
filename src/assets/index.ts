@@ -1,3 +1,6 @@
+import apple from "../apple.svg";
+import bill from "../bill.png";
+import google from "../google.svg";
 import airbnb from "./airbnb.png";
 import arrowUp from "./arrowUp.svg";
 import binance from "./binance.png";
@@ -40,4 +43,7 @@ export {
   shield,
   star,
   twitter,
+  apple,
+  bill,
+  google,
 };
