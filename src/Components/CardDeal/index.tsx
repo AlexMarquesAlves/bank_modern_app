@@ -16,6 +16,8 @@ export const CardDeal = () => {
           voluptate minus accusantium aperiam dicta repellat corrupti
           perspiciatis.
         </p>
+
+        <Button styles="mt-10" />
       </div>
     </section>
   );
