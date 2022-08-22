@@ -20,6 +20,8 @@ export const CardDeal = () => {
 
         <Button styles="mt-10" />
       </div>
+
+      <div className={layout.sectionImg}></div>
     </section>
   );
 };
