@@ -34,7 +34,7 @@ Status
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <!-- <a href="#sparkles-features">Features</a> &#xa0; | &#xa0; -->
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -48,11 +48,16 @@ Status
 
 Modern UI/UX website using Vite with React.js & Tailwind CSS
 
-<!-- ## :sparkles: Features
+## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3; -->
+:heavy_check_mark: Navbar;\
+:heavy_check_mark: Hero;\
+:heavy_check_mark: Stats;\
+:heavy_check_mark: Business;\
+:heavy_check_mark: Billing;\
+:heavy_check_mark: Card Deal;
+
+<!-- :heavy_check_mark: Feature 3; -->
 
 ## :rocket: Technologies
 
