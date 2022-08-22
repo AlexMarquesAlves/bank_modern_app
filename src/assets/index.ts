@@ -21,6 +21,7 @@ import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
 import twitter from "./twitter.svg";
+import card from "./card.png";
 
 export {
   airbnb,
@@ -34,6 +35,7 @@ export {
   instagram,
   linkedin,
   logo,
+  card,
   menu,
   people01,
   people02,
