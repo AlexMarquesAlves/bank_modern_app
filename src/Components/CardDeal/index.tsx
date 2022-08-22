@@ -7,7 +7,7 @@ export const CardDeal = () => {
   return (
     <section className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2>
+        <h2 className={styles.heading2}>
           Find a better card deal <br className="sm:block hidden" /> in few easy
           steps.
         </h2>
