@@ -4,5 +4,9 @@ import styles, { layout } from "../../Styles";
 import { Button } from "../Button";
 
 export const CardDeal = () => {
-  return <section></section>;
+  return (
+    <section>
+      <div></div>
+    </section>
+  );
 };
