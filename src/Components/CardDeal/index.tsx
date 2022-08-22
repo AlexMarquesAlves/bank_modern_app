@@ -11,7 +11,7 @@ export const CardDeal = () => {
           Find a better card deal <br className="sm:block hidden" /> in few easy
           steps.
         </h2>
-        <p className={styles.paragraph}>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste
           voluptate minus accusantium aperiam dicta repellat corrupti
           perspiciatis.
