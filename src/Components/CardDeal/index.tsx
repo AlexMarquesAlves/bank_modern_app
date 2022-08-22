@@ -9,8 +9,8 @@ export const CardDeal = () => {
       {/* Information */}
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          Find a better card deal <br className="sm:block hidden" /> in few easy
-          steps.
+          Find a better card deal <br className={"sm:block hidden"} /> in few
+          easy steps.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste
@@ -22,7 +22,7 @@ export const CardDeal = () => {
       </div>
 
       <div className={layout.sectionImg}>
-        <img src={card} alt="card deal" />
+        <img src={card} alt="card deal" className={"w-[100%] h-[100%]"} />
       </div>
     </section>
   );
