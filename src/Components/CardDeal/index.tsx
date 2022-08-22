@@ -5,8 +5,8 @@ import { Button } from "../Button";
 
 export const CardDeal = () => {
   return (
-    <section>
-      <div>
+    <section className={layout.section}>
+      <div className={layout.sectionInfo}>
         <h2>
           Find a better card deal <br className="sm:block hidden" /> in few easy
           steps.
