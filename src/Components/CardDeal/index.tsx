@@ -21,6 +21,7 @@ export const CardDeal = () => {
         <Button styles="mt-10" />
       </div>
 
+      {/* Image */}
       <div className={layout.sectionImg}>
         <img src={card} alt="card deal" className={"w-[100%] h-[100%]"} />
       </div>
