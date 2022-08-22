@@ -11,6 +11,11 @@ export const CardDeal = () => {
           Find a better card deal <br className="sm:block hidden" /> in few easy
           steps.
         </h2>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste
+          voluptate minus accusantium aperiam dicta repellat corrupti
+          perspiciatis.
+        </p>
       </div>
     </section>
   );
