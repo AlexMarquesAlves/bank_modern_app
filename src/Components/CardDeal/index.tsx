@@ -8,7 +8,8 @@ export const CardDeal = () => {
     <section>
       <div>
         <h2>
-          Find a better card deal <br /> in few easy steps.
+          Find a better card deal <br className="sm:block hidden" /> in few easy
+          steps.
         </h2>
       </div>
     </section>
