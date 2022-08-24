@@ -1,7 +1,7 @@
 // imports
-import { FeedbackCard } from "../FeedbackCard";
 import { feedback } from "../../Constants";
 import styles from "../../Styles";
+import { FeedbackCard } from "../FeedbackCard";
 
 export const Testimonials = () => {
   return (
@@ -9,7 +9,6 @@ export const Testimonials = () => {
       id="clients"
       className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}
     >
-      {/* TODO */}
       <div
         className={`absolute z-[0] w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient`}
       />
