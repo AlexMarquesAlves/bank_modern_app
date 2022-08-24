@@ -8,7 +8,11 @@ export const Clients = () => {
       <div className={`${styles.flexCenter}`}>
         {clients.map((client) => (
           <div key={client.id}>
-            <img src={client.logo} alt="client" />
+            <img
+              src={client.logo}
+              alt="client"
+              className={`sm:w-[192px] w-[100px] object-contain`}
+            />
           </div>
         ))}
       </div>
