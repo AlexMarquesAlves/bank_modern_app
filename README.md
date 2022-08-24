@@ -55,7 +55,9 @@ Modern UI/UX website using Vite with React.js & Tailwind CSS
 :heavy_check_mark: Stats;\
 :heavy_check_mark: Business;\
 :heavy_check_mark: Billing;\
-:heavy_check_mark: Card Deal;
+:heavy_check_mark: Card Deal;\
+:heavy_check_mark: Testimonials;\
+:heavy_check_mark: Clients;
 
 <!-- :heavy_check_mark: Feature 3; -->
 
