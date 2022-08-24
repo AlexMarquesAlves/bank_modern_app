@@ -1,7 +1,15 @@
+// imports
+import { FeedbackCard } from "../FeedbackCard";
+import { feedback } from "../../Constants";
+import styles from "../../Styles";
+
 export const Testimonials = () => {
   return (
-    <>
-      <h1 className="text-center text-7xl">Testimonials</h1>
-    </>
+    <section
+      id="clients"
+      className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}
+    >
+      <div />
+    </section>
   );
 };
