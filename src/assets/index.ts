@@ -22,6 +22,7 @@ import shield from "./Shield.svg";
 import star from "./Star.svg";
 import twitter from "./twitter.svg";
 import card from "./card.png";
+import quotes from "./quotes.svg";
 
 export {
   airbnb,
@@ -48,4 +49,5 @@ export {
   apple,
   bill,
   google,
+  quotes,
 };
