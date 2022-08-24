@@ -12,7 +12,11 @@ export const Testimonials = () => {
       {/* TODO */}
       <div />
 
-      <div>
+      <div
+        className={
+          "w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]"
+        }
+      >
         <h1>
           What people are <br className={"sm:block hidden"} />
           saying about us
