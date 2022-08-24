@@ -4,9 +4,15 @@ type FeedbackCardProps = {
   content: string;
   name: string;
   title: string;
+  img: string;
 };
 
-export const FeedbackCard = ({ content, name, title }: FeedbackCardProps) => {
+export const FeedbackCard = ({
+  content,
+  name,
+  title,
+  img,
+}: FeedbackCardProps) => {
   return (
     <div
       className={`flex justify-between flex-col px-10 py-12 rounded-[20px] max-w-[370px] md:mr-10 sm:mr-5 mr- my5 feedback-card`}
