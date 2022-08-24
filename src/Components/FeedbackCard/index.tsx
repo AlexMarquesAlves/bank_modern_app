@@ -2,16 +2,16 @@ import { quotes } from "../../assets";
 
 type FeedbackCardProps = {
   content: string;
+  img: string;
   name: string;
   title: string;
-  img: string;
 };
 
 export const FeedbackCard = ({
   content,
+  img,
   name,
   title,
-  img,
 }: FeedbackCardProps) => {
   return (
     <div
