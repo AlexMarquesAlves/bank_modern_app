@@ -1,4 +1,3 @@
-// imports
 import { clients } from "../../Constants";
 import styles from "../../Styles";
 
