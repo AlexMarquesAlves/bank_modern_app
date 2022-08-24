@@ -34,6 +34,8 @@ export const FeedbackCard = ({
           alt={name}
           className={`w-[48px] h-[48px] rounded-full `}
         />
+
+        <div></div>
       </div>
     </div>
   );
