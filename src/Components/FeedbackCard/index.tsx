@@ -1,5 +1,11 @@
 import { quotes } from "../../assets";
 
+type FeedbackCardProps = {
+  content: string;
+  name: string;
+  title: string;
+};
+
 export const FeedbackCard = ({ content, name, title }: FeedbackCardProps) => {
   return (
     <div
