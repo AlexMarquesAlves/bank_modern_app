@@ -21,7 +21,12 @@ export const Testimonials = () => {
           What people are <br className={"sm:block hidden"} />
           saying about us
         </h1>
-        <div className={"w-full md:mt-0 mt-6"}></div>
+        <div className={"w-full md:mt-0 mt-6"}>
+          <p>
+            Everything you need to accept card payments and grow your business
+            anywhere on planet
+          </p>
+        </div>
       </div>
     </section>
   );
