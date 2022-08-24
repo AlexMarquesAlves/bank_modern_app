@@ -28,6 +28,10 @@ export const Testimonials = () => {
           </p>
         </div>
       </div>
+
+      <div
+        className={`flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[1]`}
+      ></div>
     </section>
   );
 };
