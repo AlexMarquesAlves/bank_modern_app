@@ -21,7 +21,7 @@ export const Testimonials = () => {
           What people are <br className={"sm:block hidden"} />
           saying about us
         </h1>
-        <div></div>
+        <div className={"w-full md:mt-0 mt-6"}></div>
       </div>
     </section>
   );
