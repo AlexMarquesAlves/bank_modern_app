@@ -31,7 +31,11 @@ export const Testimonials = () => {
 
       <div
         className={`flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[1]`}
-      ></div>
+      >
+        {feedback.map((card) => (
+          <FeedbackCard key={card.id} />
+        ))}
+      </div>
     </section>
   );
 };
