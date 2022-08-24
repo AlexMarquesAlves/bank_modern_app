@@ -35,7 +35,7 @@ export const FeedbackCard = ({
           className={`w-[48px] h-[48px] rounded-full `}
         />
 
-        <div></div>
+        <div className={"flex flex-col ml-4"}></div>
       </div>
     </div>
   );
