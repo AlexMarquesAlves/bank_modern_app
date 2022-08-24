@@ -9,7 +9,15 @@ export const Testimonials = () => {
       id="clients"
       className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}
     >
+      {/* TODO */}
       <div />
+
+      <div>
+        <h1>
+          What people are <br className={"sm:block hidden"} />
+          saying about us
+        </h1>
+      </div>
     </section>
   );
 };
