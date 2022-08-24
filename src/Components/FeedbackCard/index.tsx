@@ -43,7 +43,13 @@ export const FeedbackCard = ({
           >
             {name}
           </h4>
-          <h4>{title}</h4>
+          <h4
+            className={
+              "font-poppins font-normal text-[16px] leading-[24px] text-dimWhite"
+            }
+          >
+            {title}
+          </h4>
         </div>
       </div>
     </div>
