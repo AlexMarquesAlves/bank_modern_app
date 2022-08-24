@@ -27,6 +27,14 @@ export const FeedbackCard = ({
       >
         {content}
       </p>
+
+      <div className="flex flex-row">
+        <img
+          src={img}
+          alt={name}
+          className={`w-[48px] h-[48px] rounded-full `}
+        />
+      </div>
     </div>
   );
 };
