@@ -15,8 +15,8 @@ export const CTA = () => {
         </p>
       </div>
 
-      <div className={``}>
-        <Button styles={``} />
+      <div className={`${styles.flexCenter} sm:ml-10 ml-0`}>
+        <Button />
       </div>
     </section>
   );

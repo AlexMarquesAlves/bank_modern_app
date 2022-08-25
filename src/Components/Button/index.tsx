@@ -1,5 +1,5 @@
 export type IButtonProps = {
-  styles: string;
+  styles?: string;
 };
 
 export const Button = ({ styles }: IButtonProps) => {
