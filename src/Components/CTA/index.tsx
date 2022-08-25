@@ -4,8 +4,10 @@ import { Button } from "../Button";
 
 export const CTA = () => {
   return (
-    <>
-      <h1 className="text-center text-7xl">CTA</h1>
-    </>
+    <section>
+      <div>
+        <h2>Let's try our service now!</h2>
+      </div>
+    </section>
   );
 };
