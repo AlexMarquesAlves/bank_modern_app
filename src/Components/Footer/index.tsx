@@ -31,7 +31,7 @@ export const Footer = () => {
               >
                 {footerLink.title}
               </h4>
-              <ul>
+              <ul className={`list-none mt-4`}>
                 {footerLink.links.map((link, index) => (
                   <li
                     key={link.name}
