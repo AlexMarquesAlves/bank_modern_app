@@ -58,7 +58,7 @@ export const Footer = () => {
 
         <div className={`flex flex-row md:mt-0 mt-6`}>
           {socialMedia.map((social, index) => (
-            <div></div>
+            <img src={social.icon} alt={social.id} key={social.id} />
           ))}
         </div>
       </div>
