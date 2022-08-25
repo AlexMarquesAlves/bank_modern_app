@@ -56,7 +56,11 @@ export const Footer = () => {
           2022 HooBank. All Rights Reserved.
         </p>
 
-        <div className={`flex flex-row md:mt-0 mt-6`}>{}</div>
+        <div className={`flex flex-row md:mt-0 mt-6`}>
+          {socialMedia.map((social, index) => (
+            <div></div>
+          ))}
+        </div>
       </div>
     </section>
   );
