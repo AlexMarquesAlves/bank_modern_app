@@ -12,6 +12,10 @@ export const CTA = () => {
           anywhere on planet.
         </p>
       </div>
+
+      <div>
+        <Button />
+      </div>
     </section>
   );
 };
