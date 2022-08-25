@@ -1,3 +1,7 @@
+// imports
+import styles from "../../Styles";
+import { Button } from "../Button";
+
 export const CTA = () => {
   return (
     <>
