@@ -22,7 +22,10 @@ export const Footer = () => {
           className={`flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10`}
         >
           {footerLinks.map((footerLink) => (
-            <div key={footerLink.title}></div>
+            <div
+              key={footerLink.title}
+              className={`flex flex-col ss:my-0 my-4 min-h-[150px]`}
+            ></div>
           ))}
         </div>
       </div>
