@@ -11,12 +11,12 @@ export const Stats = () => {
           key={stat.id}
           className={`flex-1 flex justify-start items-center flex-row m-3`}
         >
-          <h4 className="font-poppins font-semibold xs:text-[40px] text-[30px] xs:leading-[53px] leading-[43px] text-white">
+          <h4 className="font-poppins font-semibold xs:text-[2.5rem] text-[1.875rem] xs:leading-[3.3125rem] leading-[2.6875rem] text-white">
             {stat.value}{" "}
           </h4>
           <p
-            className="font-poppins font-normal xs:text-[20px] text-[15px]
-            xs:leading-[26px] leading-[21px] text-gradient uppercase ml-3"
+            className="font-poppins font-normal xs:text-[1.25rem] text-[0.9375rem]
+            xs:leading-[1.625rem] leading-[1.3125rem] text-gradient uppercase ml-3"
           >
             {stat.title}
           </p>
