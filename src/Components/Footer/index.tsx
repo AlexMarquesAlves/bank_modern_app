@@ -17,6 +17,8 @@ export const Footer = () => {
             A new way to make the payments easy, reliable and secure.
           </p>
         </div>
+
+        <div></div>
       </div>
     </section>
   );
