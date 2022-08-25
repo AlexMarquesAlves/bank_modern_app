@@ -1,3 +1,8 @@
+// imports
+import styles from "../../Styles";
+import { logo } from "../../assets";
+import { footerLinks, socialMedia } from "../../Constants";
+
 export const Footer = () => {
   return (
     <>
