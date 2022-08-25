@@ -50,7 +50,11 @@ export const Footer = () => {
       </div>
       {/* Bottom Side */}
       <div>
-        <p>2022 HooBank. All Rights Reserved.</p>
+        <p
+          className={`font-poppins font-normal text-center text-[18px] leading-[27px] text-white`}
+        >
+          2022 HooBank. All Rights Reserved.
+        </p>
       </div>
     </section>
   );
