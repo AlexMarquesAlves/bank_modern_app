@@ -20,7 +20,11 @@ export const Footer = () => {
 
         <div
           className={`flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10`}
-        ></div>
+        >
+          {footerLinks.map((footerLink) => (
+            <div key={footerLink.title}></div>
+          ))}
+        </div>
       </div>
     </section>
   );
