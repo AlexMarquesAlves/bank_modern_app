@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <!-- <img src="./.github/app.gif" alt="Bank_modern_app" /> -->
+  <img src="./.github/app.png" alt="Bank_modern_app" />
 
 &#xa0;
 
@@ -17,17 +17,18 @@
 
   <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/bank_modern_app?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/bank_modern_app?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/bank_modern_app?color=56BEB8" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/bank_modern_app?color=56BEB8" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/bank_modern_app?color=56BEB8" />
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/bank_modern_app?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/bank_modern_app?color=56BEB8" />
 </p>
 
 Status
 
 <h4 align="center">
-	🚧  Bank_modern_app 🚀 Under construction...  🚧
+	<!-- 🚧  Bank_modern_app 🚀 Under construction...  🚧 -->
+	✔️  Bank_modern_app 🚀 Was complete...  ✔️
 </h4>
 
 <hr>
@@ -36,6 +37,7 @@ Status
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#camera-screenshots">Screenshots</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -57,7 +59,9 @@ Modern UI/UX website using Vite with React.js & Tailwind CSS
 :heavy_check_mark: Billing;\
 :heavy_check_mark: Card Deal;\
 :heavy_check_mark: Testimonials;\
-:heavy_check_mark: Clients;
+:heavy_check_mark: Clients;\
+:heavy_check_mark: CTA;\
+:heavy_check_mark: Footer;
 
 <!-- :heavy_check_mark: Feature 3; -->
 
@@ -69,6 +73,24 @@ The following tools were used in this project:
 - [TailwindCss](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
+
+&#xa0;
+
+## :camera: Screenshots
+
+<p align="center">Some screenshots took to this project:</p>
+
+<div align="center" id="top">
+  <img src="./.github/app.png" alt="Bank_modern_app" />&#xa0;
+  <img src="./.github/screenshot1.png" alt="screenshot" />&#xa0;
+  <img src="./.github/screenshot2.png" alt="screenshot" />&#xa0;
+  <img src="./.github/screenshot3.png" alt="screenshot" />&#xa0;
+  <img src="./.github/screenshot4.png" alt="screenshot" />&#xa0;
+  <img src="./.github/screenshot6.png" alt="screenshot" />&#xa0;
+
+&#xa0;
+
+</div>
 
 ## :white_check_mark: Requirements
 
