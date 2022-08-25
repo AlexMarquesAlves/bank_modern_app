@@ -56,7 +56,7 @@ export const Footer = () => {
           2022 HooBank. All Rights Reserved.
         </p>
 
-        <div>{}</div>
+        <div className={`flex flex-row md:mt-0 mt-6`}>{}</div>
       </div>
     </section>
   );
