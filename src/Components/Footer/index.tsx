@@ -32,7 +32,9 @@ export const Footer = () => {
                   <li
                     key={link.name}
                     className={`font-poppins font-normal text-[16px] leading-[24px] text-dimWhite hover:text-secondary cursor-pointer`}
-                  ></li>
+                  >
+                    {link.name}
+                  </li>
                 ))}
               </ul>
             </div>
