@@ -23,7 +23,7 @@ export const FeedbackCard = ({
         className={`w-[42px] h-[27px] object-contain`}
       />
       <p
-        className={`font-poppins font-normal text-[18px] leading-[32px] text white my-10`}
+        className={`font-poppins font-normal text-[18px] leading-[32px] text-white my-10`}
       >
         {content}
       </p>
