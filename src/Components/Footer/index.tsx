@@ -25,7 +25,9 @@ export const Footer = () => {
             <div
               key={footerLink.title}
               className={`flex flex-col ss:my-0 my-4 min-h-[150px]`}
-            ></div>
+            >
+              <h4>{footerLink.title}</h4>
+            </div>
           ))}
         </div>
       </div>
