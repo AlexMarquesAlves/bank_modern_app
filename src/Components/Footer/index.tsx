@@ -13,7 +13,9 @@ export const Footer = () => {
             alt="logo"
             className={`w-[266px] h-[72px] object-contain`}
           />
-          <p>A new way to make the payments easy, reliable and secure.</p>
+          <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>
+            A new way to make the payments easy, reliable and secure.
+          </p>
         </div>
       </div>
     </section>
